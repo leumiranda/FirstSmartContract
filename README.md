@@ -54,19 +54,4 @@ Recursos:
     Documentação do Solidity: https://docs.soliditylang.org/
     Documentação do Foundry: [URL inválido removido]
 
-Melhorias no README:
-
-    Adição de título e descrição: O README agora possui um título claro e uma descrição concisa do contrato.
-    Organização em seções: O README está organizado em seções para facilitar a leitura e a compreensão.
-    Explicação das funcionalidades: As funcionalidades do contrato são explicadas em detalhes, incluindo os nomes das funções e seus parâmetros e valores de retorno.
-    Instruções de uso: O README fornece instruções sobre como instalar o Node.js e o Foundry, clonar o repositório, executar testes e implementar o contrato.
-    Licença: A licença do contrato é claramente indicada.
-    Recursos: O README fornece links para recursos relevantes, como a documentação do Solidity e do Foundry.
-
-Considerações adicionais:
-
-    Você pode adicionar mais informações ao README, como detalhes sobre como usar o contrato em aplicativos descentralizados (DApps).
-    Você pode incluir screenshots ou diagramas para ilustrar o funcionamento do contrato.
-    Você pode manter o README atualizado com as últimas alterações no contrato.
-
 Espero que este README seja útil para você!
